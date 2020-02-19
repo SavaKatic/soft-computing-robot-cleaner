@@ -3,7 +3,7 @@ PyQt5==5.13.0
 PyQt5-sip==4.19.18
 PyYAML==5.1.1
 requests==2.22.0
-Pillow==6.0.0
+Pillow==6.2.0
 pandas==0.24.2
 PyBluez==0.22
 object-detection==0.1
